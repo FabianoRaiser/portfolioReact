@@ -6,7 +6,7 @@ const corFundo = "#063745";
 const fontFamilyNoto = "'Noto Sans Mono', monospace;";
 const fontFamilyOpen = "'Open Sans', sans-serif;";
 
-const gradienteVerdeAlfa = `linear-gradient(150deg, ${verdeEscuro}, ${alfaTransparente} );`;
+const gradienteVerdeAlfa = `linear-gradient(150deg, ${verdeEscuro} 30%, ${alfaTransparente} );`;
 
 export {
   verdeClaro,

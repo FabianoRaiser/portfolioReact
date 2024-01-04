@@ -1,0 +1,22 @@
+{
+    "linksRedes": [
+        {
+            "key": 1,
+            "nome": "GitHub",
+            "imgPath": "src/assets/Github.svg",
+            "link": "https://github.com/FabianoRaiser"
+        },
+        {
+            "key": 2,
+            "nome": "LinkedIn",
+            "imgPath": "src/assets/linkedin.svg",
+            "link": "https://www.linkedin.com/in/fabiano-raiserb/"
+        },
+        {
+            "key": 3,
+            "nome": "Instagram",
+            "imgPath": "src/assets/instagram.svg",
+            "link": "https://www.instagram.com/riseraiser/"
+        }
+    ]
+}
