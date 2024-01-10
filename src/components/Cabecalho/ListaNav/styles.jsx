@@ -1,8 +1,8 @@
 import styled from "styled-components";
-import { gradienteVerdeAlfa } from "../../../styles/variaveisCSS";
+import { gradienteVerdeAlfa_Nav } from "@/styles/variaveisCSS";
 
 export const StyledListaNav = styled.ul`
-    background-image: ${gradienteVerdeAlfa};
+    background-image: ${gradienteVerdeAlfa_Nav};
 
     width: 0%;
     white-space: nowrap;
