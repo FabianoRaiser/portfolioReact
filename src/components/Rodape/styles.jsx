@@ -2,7 +2,7 @@ import styled from "styled-components";
 import { gradienteVerdeAlfa_Rod, } from "@/styles/variaveisCSS";
 
 export const StyledRodape = styled.footer`
-    position: absolute;
+    position: relative;
     bottom: 0;
 
     width: 100%;
