@@ -17,4 +17,8 @@ export const GlobalStyle = createGlobalStyle`
         background-color: ${corFundo};
         font-family: ${ fontFamilyNoto };
     }
+
+    a {
+        text-decoration: none;
+    }
 `

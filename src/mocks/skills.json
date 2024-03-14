@@ -1,0 +1,15 @@
+{
+  "hard": [
+    { "text": "Java", "id": 1 },
+    { "text": "PostgreSQL", "id": 2 },
+    {"text":"MySQL", "id": 3 },
+    {"text":"Arduino/C++", "id": 4}
+  ],
+  "soft": [
+    {"text":"Pró-ativo", "id": 1},
+    {"text":"Comprometido", "id": 2},
+    {"text":"Aprendizado ágil", "id": 3},
+    {"text":"Visão analitica", "id": 4},
+    {"text":"Comunicação e Ensino", "id": 5}
+  ]
+}

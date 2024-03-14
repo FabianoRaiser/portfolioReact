@@ -1,0 +1,12 @@
+{
+    "projects": [
+        {
+            "id": "1",
+            "title": "Codechella - Challenge Front End Alura",
+            "link": "https://6th-challenge-front-end-alura.vercel.app",
+            "banner": "challengeFront6.png",
+            "description": "Projeto desenvolvido durante o 6º Challenge de Front-end da Alura Cursos.",
+            "techs": "HTML | CSS | JS"
+        }
+    ]
+}
