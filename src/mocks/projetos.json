@@ -7,6 +7,14 @@
             "banner": "challengeFront6.png",
             "description": "Projeto desenvolvido durante o 6º Challenge de Front-end da Alura Cursos.",
             "techs": "HTML | CSS | JS"
+        },
+        {
+            "id": "2",
+            "title": "Meteora - Curso React Context Api Alura",
+            "link": "https://meteora-context-api.vercel.app/",
+            "banner": "meteoraContextApi.png",
+            "description": "Exercicio aplicando o ContextApi do React em um site de E-commerce",
+            "techs": "React | Context API | React Router | Vite"
         }
     ]
 }
