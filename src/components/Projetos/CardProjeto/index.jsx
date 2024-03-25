@@ -5,7 +5,7 @@ export const CardProjeto = ({ project }) => {
     <StyledCardProj>
       <a href={project.link}>
         <img
-          src={`/src/assets/projetosImg/${project.banner}`}
+          src={`/projetosImg/${project.banner}`}
           alt="Imagem de capa do Projeto"
         />
         <div>
